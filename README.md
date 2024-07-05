@@ -1,12 +1,12 @@
-Real-Time Tracking System using EJS, Leaflet, and Socket.io
-Overview
+#Real-Time Tracking System
+##Overview
 This project showcases real-time location updates on a map using EJS for templating, Leaflet for mapping functionality, and Socket.io for WebSocket-based communication between clients and servers. Users can see their own and others' live locations updated dynamically on the map.
 
-Features
+##Features
 Real-time updating of markers on the map based on user locations.
 WebSocket-based communication for efficient and instant data transmission.
 User-friendly interface with EJS templates for dynamic content rendering.
-Technologies Used
+##Technologies Used
 Frontend:
 
 EJS: Templating engine for generating dynamic HTML content.
